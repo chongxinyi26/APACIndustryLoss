@@ -1,0 +1,14 @@
+Package: APACIndustryLoss
+Type: Package
+Title: Extract and summarise APAC Industry Loss Numbers
+Version: 0.1.0
+Author: Celine Chong 
+Maintainer: Celine Chong <cchongxinyi@gmail.com>
+Description: Pull out and compile Insured and Insurable numbers based on a given EventID and ModelCODE
+License: CCSG
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    readr
+RoxygenNote: 7.3.1
